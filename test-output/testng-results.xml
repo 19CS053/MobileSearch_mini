@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-13T14:52:28 IST" name="Default suite" finished-at="2024-06-13T14:53:44 IST" duration-ms="75948">
+    <groups>
+    </groups>
+    <test started-at="2024-06-13T14:52:28 IST" name="Default test" finished-at="2024-06-13T14:53:44 IST" duration-ms="75948">
+      <class name="Miniproject.Mainclass">
+        <test-method is-config="true" signature="Beforeclass()[pri:0, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:52:28 IST" name="Beforeclass" finished-at="2024-06-13T14:53:15 IST" duration-ms="46235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method signature="launchingApplication()[pri:1, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:53:15 IST" name="launchingApplication" finished-at="2024-06-13T14:53:22 IST" duration-ms="7808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingApplication -->
+        <test-method signature="maximizeApplication()[pri:2, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:53:22 IST" name="maximizeApplication" finished-at="2024-06-13T14:53:25 IST" duration-ms="2911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeApplication -->
+        <test-method signature="searchItem()[pri:3, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:53:25 IST" name="searchItem" finished-at="2024-06-13T14:53:33 IST" duration-ms="7241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="validation()[pri:4, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:53:33 IST" name="validation" finished-at="2024-06-13T14:53:34 IST" duration-ms="1489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation -->
+        <test-method signature="selectDropdown()[pri:5, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:53:34 IST" name="selectDropdown" finished-at="2024-06-13T14:53:37 IST" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropdown -->
+        <test-method signature="writingExcel()[pri:6, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:53:37 IST" name="writingExcel" finished-at="2024-06-13T14:53:37 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writingExcel -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Miniproject.Mainclass@4efac082]" started-at="2024-06-13T14:53:37 IST" name="afterclass" finished-at="2024-06-13T14:53:44 IST" duration-ms="6320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Miniproject.Mainclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
